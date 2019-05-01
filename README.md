@@ -1,4 +1,4 @@
-#list CPU usage for all sites
+# list CPU usage for all sites
 
 Instructions:
 

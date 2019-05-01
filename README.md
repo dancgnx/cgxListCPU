@@ -20,6 +20,7 @@ cgxListCPU.py looks for the following for AUTH, in this order of precedence:
 
 Example of a run:
 ```
+bash$ python3 cgxListCPU.py   --min 10 --hours 10
 Site,Element,Time UTC,CPU
 New York,New York ION2K,2019-05-01T13:59:00.000Z,10.272800000000004
 New York,New York ION2K,2019-05-01T14:19:00.000Z,10.677800000000005
